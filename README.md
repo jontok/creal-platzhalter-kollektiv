@@ -2,7 +2,7 @@
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/dargmuesli/creal.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/dargmuesli/creal/context:javascript)
 
 # cReal
-
+[Platzhalter Kollektiv Readme](README_platzhalter.md)
 cReal's website: [creal.jonas-thelemann.de](https://creal.jonas-thelemann.de).
 
 <!-- ![Welcome](images/welcome.jpg "cReal") -->
@@ -10,6 +10,7 @@ cReal's website: [creal.jonas-thelemann.de](https://creal.jonas-thelemann.de).
 ## Table of Contents
 1. **[Development](#development)**
 1. **[Technology](#technology)**
+
 
 ## Development
 
